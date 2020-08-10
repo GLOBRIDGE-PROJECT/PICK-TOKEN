@@ -1,2 +1,2 @@
 # PICK-TOKEN
-PICK is new Token of LIUM
+PICK is next Gen of LIUM TOKEN
